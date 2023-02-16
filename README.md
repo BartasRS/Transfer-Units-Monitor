@@ -6,4 +6,4 @@ An addition to my **Factory Monitoring Screen** and **Factory Monitoring Expande
 <br>
 ## Installation
 Simply connect core and screen(s) to PB in any order. The script will tell you on start how many screens is needed for your factory in LUA chat.<br>
-Current limit is 6 screens and 384 Transfer Units but it can easily be expanded up to 9 screens on demand.
+Current limit is 6 screens and 408 Transfer Units but it can easily be expanded up to 9 screens on demand.
