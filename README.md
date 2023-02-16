@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/61538051/219449833-70445f82-c793-471b-9180-658d34723a82.png)
 
 <br>
-An addition to my [3 screen version](https://github.com/BartasRS/Factory-Monitoring-Expanded/blob/main/PB.json) or [9 screen version](https://github.com/BartasRS/Factory-Monitoring-Expanded/blob/main/pb-9_screens.json)  and [Factory Monitoring Expanded](https://github.com/BartasRS/Factory-Monitoring-Expanded) scripts. This one monitors all Transfer Units on the core.
+An addition to my **Factory Monitoring Screen** and **Factory Monitoring Expanded** scripts. This one monitors all Transfer Units on the core.
 <br>
 ## Installation
 Simply connect core and screen(s) to PB in any order. The script will tell you on start how many screens is needed for your factory in LUA chat.<br>
